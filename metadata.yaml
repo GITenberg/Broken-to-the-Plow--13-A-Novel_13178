@@ -1,0 +1,26 @@
+_repo: Broken-to-the-Plow--13-A-Novel_13178
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dobie, Charles Caldwell
+    birthdate: 1881
+    deathdate: 1943
+    gutenberg_agent_id: '4115'
+    url: http://www.gutenberg.org/2009/agents/4115
+description: ''
+gutenberg_issued: '2004-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: "Broken to the Plow\r\nA Novel"
+url: http://www.gutenberg.org/ebooks/13178
